@@ -1,4 +1,5 @@
 # Contact Manager (MERN Stack)
+*Live Demo:* https://contact-manager-ekgc.vercel.app
 
 A full-stack contact management application built with MongoDB, Express, React and Node.js. Users can add, view, edit, delete and search contacts, with validation and error handling.
 
